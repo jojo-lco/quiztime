@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+
+    <title>Coding Quiz Challenge</title>
+</head>
+
+<body>
+
+    <button id="highScores">View Highscores</button>
+    <section id="timer" class="float-right ">Time: 20 seconds</section>
+
+    <div class="container text-center">
+        <div class="card  border border-0">
+            <div class="card-body">
+                <h1>Coding Quiz Challenge!</h1>
+                <div id="my-scores">
+                    <form class="form-inline">
+                        <label class="mr-sm-2">Name:</label>
+                        <input class="form-control mb-2 mr-sm-2" placeholder="Your Name" id="scores">
+                        <button type="submit">Submit</button>
+                    </form>
+                </div>
+                <div id="question">The following are questions on fundamentals of Javascript. This is a timed quiz,
+                    if you answer a question incorrectly, time will be reduced from your allocated time.</div>
+                <div id="options">All the best!</div>
+                <button id="startQuiz">Start Quiz</button>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,23 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.container{
+    position: absolute;
+    top:30%;
+    left:10%;
+
+}
+button{
+    background : plum;
+}
+p{
+    font-size: 20px;
+}
+#options button{
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#my-scores{
+    display: none;
+}
