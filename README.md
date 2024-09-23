@@ -4,7 +4,7 @@
 ## Description [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 
 ```
-AS A coding bootcamp student
+AS A developer
 I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
 SO THAT I can gauge my progress compared to my peers
 ```
@@ -26,7 +26,7 @@ SO THAT I can gauge my progress compared to my peers
 
 ## Installation
 
-The app is deployed on Github pages: [Coding Quiz](https://jose-lco.github.io/quiztime/)
+The app is deployed on Github pages: [Coding Quiz](https://jojo-lco.github.io/quiztime/)
 ## Usage
 
 As you proceed in your career as a web developer, you will probably be asked to complete a coding assessment, which is typically a combination of multiple-choice questions and interactive challenges. Build a timed code quiz with multiple-choice questions. 
@@ -56,6 +56,6 @@ I used this repository to learn about badges:
 ## Authors
 
 **This project was created by:**
-* Jose-lco [![HitCount](http://hits.dwyl.com/Jose-lco/quiztime.svg)](http://hits.dwyl.com/Jose-lco/quiztime)
+* jojo-lco [![HitCount](http://hits.dwyl.com/jojo-lco/quiztime.svg)](http://hits.dwyl.com/jojo-lco/quiztime)
   * Contact info: [Linkedin profile](https://www.linkedin.com/in/josephine-ndungu-a0a441160)
 
